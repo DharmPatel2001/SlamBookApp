@@ -1,0 +1,24 @@
+PODS:
+  - DropDown (2.3.2)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (6.5.11)
+
+DEPENDENCIES:
+  - DropDown (= 2.3.2)
+  - FSPagerView
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - FSPagerView
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+
+PODFILE CHECKSUM: 4612217304e1ad00e8f7b3a712cef6f5bc3eafd1
+
+COCOAPODS: 1.12.0
